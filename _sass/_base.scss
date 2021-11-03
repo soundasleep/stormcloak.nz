@@ -1,5 +1,14 @@
-html, body {
-  @include slightly-gradient-background($brand-color-highlight, $brand-color);
+html {
+  background-color: mix($brand-color, $brand-color-highlight, 30%);
+  background-image: url('/assets/images/noise.png');
+}
+
+body {
+  background-color: rgba(0,0,0,0);
+}
+
+html,body {
+  letter-spacing: 0.5px;
 }
 
 /**

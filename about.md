@@ -4,7 +4,6 @@ title: About
 permalink: /about
 ---
 
-**Stormcloak Games** is a brand new game development studio based in Wellington, New Zealand.
-We're currently in the prototype stage of a new base builder/colony sim game.
+**Stormcloak Consulting** provides bespoke bookkeeping and software development services.
 
-Behind the curtain it's just [@soundasleep](https://twitter.com/soundasleep) doing everything.
+We are based in Wellington, New Zealand.

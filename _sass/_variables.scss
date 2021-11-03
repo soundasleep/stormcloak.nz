@@ -1,7 +1,7 @@
 @import "_colours";
 
 // Minima defaults from https://github.com/jekyll/minima/blob/master/_sass/minima.scss
-$base-font-family: 'Heebo', Helvetica, Arial, sans-serif;
+$base-font-family: 'Gelasio', 'Times New Roman', Times, serif;
 $base-font-size:   18px;
 $base-font-weight: 300;
 $small-font-size:  $base-font-size * 0.875;
@@ -9,12 +9,12 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$brand-color:      #616B83;
-$brand-color-highlight:      #303D5C;
+$brand-color:      #888;
+$brand-color-highlight:      #222;
 
 $background-color: $brand-color;
 $text-color:       $white;
-$default-link-color: mix($text-color, $brand-color, 35%);
+$default-link-color: mix($text-color, $brand-color, 50%);
 $default-hover-color: $text-color;
 
 $grey-color:       #828282;
