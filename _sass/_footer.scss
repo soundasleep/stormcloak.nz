@@ -52,8 +52,15 @@ footer.site-footer {
   }
 
   .social-media-list {
-    max-width: 160px;
-    display: block;
-    margin-left: auto;
+    display: none;
+  }
+
+  a.xero-advisor {
+    border: 1px solid transparent;
+    display: inline-block;
+
+    &:hover {
+      border-color: $default-link-color;
+    }
   }
 }
